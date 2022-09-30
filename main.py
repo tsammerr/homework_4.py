@@ -1,4 +1,3 @@
-#feature/HM_ex_1
 op = int(input('number of the month -> '))
 
 if op == 1:
